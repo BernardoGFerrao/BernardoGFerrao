@@ -2,9 +2,10 @@
 - 🎂 23
 - 📌 Camaquã - RS
 - 📌 Pelotas - RS
-- 📕Engenheiro de Computação UFPel Técnico em informatica IFSul-Camaquã (2017 - 2021)
-- 📕Engenheiro de Computação UFPel (2021 - now)
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- 📕Técnico em informatica   - IFSul Camaquã - (2017 - 2021)
+- 📕Engenheiro de Computação - UFPel         - (2021 - now)
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 
 ![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoGFerrao&show_icons=true&theme=dark)
 
