@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Bernardo Ferrão 🌱
-- 🎂 23
+- 🎂 24
 - 📌 Camaquã - RS
 - 📌 Pelotas - RS
 - 📕Técnico em informatica   - IFSul Camaquã - (2017 - 2021)
