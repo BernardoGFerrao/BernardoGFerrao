@@ -7,7 +7,6 @@
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-ferrão-a36a57270/)
 
-![Bernardo GitHub stats](https://github-readme-stats.vercel.app/api?username=BernardoGFerrao&show_icons=true&theme=dark)
 
 ## 👨🏽‍💻 Tecnologias que eu uso no meu dia
 
