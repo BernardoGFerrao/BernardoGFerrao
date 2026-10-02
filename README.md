@@ -9,7 +9,7 @@
   
 ## [<img width="32" height="32" alt="favicon-32" src="https://github.com/user-attachments/assets/15bcc7f6-8b5e-4cc0-8531-6b70fef75010" /> Desenvolvedor MeuHub](https://www.meuhub.dev.br)
 
-## [<img width="32" height="32" alt="mongaru-icon" src="https://github.com/user-attachments/assets/4bca3579-e9a0-4358-aa29-fe1fe8f94038" /> Desenvolvedor Mongaru](https://www.mongaru.app.br/)
+## [<img width="32" height="32" alt="icon-32" src="https://github.com/user-attachments/assets/ce7dfb9a-9f64-45a6-9843-0ce05b4ec61f" /> Desenvolvedor Mongaru](https://www.mongaru.app.br/)
 ## 👨🏽‍💻 Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
