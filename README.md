@@ -14,3 +14,8 @@
 ## 📜 Certificados:
 - HashTag (Python Impressionador): https://portalhashtag.com/certificado-hashtag/1715473887873x689017664349667300?data-inicio=Sim
 - RocketSeat (NLW): https://app.rocketseat.com.br/certificates/d46e4986-11b4-4f72-96b9-fe2a828c0af8
+
+
+## 📜 Currículo:
+
+[Currículo Bernardo Ferrão.pdf](https://github.com/user-attachments/files/33679728/Curriculo.Bernardo.Ferrao-2.pdf)
