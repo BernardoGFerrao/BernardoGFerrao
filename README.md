@@ -12,7 +12,7 @@
 
 [<img width="32" height="32" alt="icon-32" src="https://github.com/user-attachments/assets/ce7dfb9a-9f64-45a6-9843-0ce05b4ec61f" /> Mongaru](https://www.mongaru.app.br/)
 
-[<img width="32" height="32" alt="icone-32" src="https://github.com/user-attachments/assets/8bd581a9-6b1c-42d5-b420-8b94f1bc1fe1" /> Secretarium](https://www.secretarium.com.br/)
+[<img width="32" height="32" alt="icone-32" src="https://github.com/user-attachments/assets/8bd581a9-6b1c-42d5-b420-8b94f1bc1fe1" /> Secretarium](https://secretarium.com.br/)
 
 ## 📜 Certificados:
 - HashTag (Python Impressionador): https://portalhashtag.com/certificado-hashtag/1715473887873x689017664349667300?data-inicio=Sim
